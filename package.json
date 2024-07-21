@@ -1,0 +1,14 @@
+{
+  "name": "apiluka",
+  "version": "1.0.0",
+  "description": "Une api faite par Herolde GUIELLE pour les entreprises Luka Pe Zua",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Herolde GUIELLE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
